@@ -1,0 +1,14 @@
+C:\Users\Aluno\Documents\SharpDevelop Projects\PlacaCarros\PlacaCarros\bin\Debug\PlacaCarros.exe
+C:\Users\Aluno\Documents\SharpDevelop Projects\PlacaCarros\PlacaCarros\bin\Debug\PlacaCarros.pdb
+C:\Users\Aluno\Documents\SharpDevelop Projects\PlacaCarros\PlacaCarros\obj\Debug\PlacaCarros.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Documents\SharpDevelop Projects\PlacaCarros\PlacaCarros\obj\Debug\PlacaCarros.MainForm.resources
+C:\Users\Aluno\Documents\SharpDevelop Projects\PlacaCarros\PlacaCarros\obj\Debug\PlacaCarros.csproj.GenerateResource.Cache
+C:\Users\Aluno\Documents\SharpDevelop Projects\PlacaCarros\PlacaCarros\obj\Debug\PlacaCarros.exe
+C:\Users\Aluno\Documents\SharpDevelop Projects\PlacaCarros\PlacaCarros\obj\Debug\PlacaCarros.pdb
+C:\Users\rhuan\OneDrive\Documents\SharpDevelop Projects\PlacaCarros\PlacaCarros\obj\Debug\PlacaCarros.csprojResolveAssemblyReference.cache
+C:\Users\rhuan\OneDrive\Documents\SharpDevelop Projects\PlacaCarros\PlacaCarros\obj\Debug\PlacaCarros.MainForm.resources
+C:\Users\rhuan\OneDrive\Documents\SharpDevelop Projects\PlacaCarros\PlacaCarros\obj\Debug\PlacaCarros.csproj.GenerateResource.Cache
+C:\Users\rhuan\OneDrive\Documents\SharpDevelop Projects\PlacaCarros\PlacaCarros\obj\Debug\PlacaCarros.exe
+C:\Users\rhuan\OneDrive\Documents\SharpDevelop Projects\PlacaCarros\PlacaCarros\bin\Debug\PlacaCarros.exe
+C:\Users\rhuan\OneDrive\Documents\SharpDevelop Projects\PlacaCarros\PlacaCarros\bin\Debug\PlacaCarros.pdb
+C:\Users\rhuan\OneDrive\Documents\SharpDevelop Projects\PlacaCarros\PlacaCarros\obj\Debug\PlacaCarros.pdb
